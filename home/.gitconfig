@@ -1,0 +1,11 @@
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	cam = commit -a -m
+	ca = commit -a --amend
+[user]
+	name = Filip Stachura
+	email = filip@appsilondatascience.com
+[push]
+	default = matching
